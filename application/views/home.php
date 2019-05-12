@@ -7,6 +7,7 @@
 </head>
 <body>
 <!--table -->
+<p>Nama : Ghifari Ramadhika Permana</p>
 <div class="container" style="margin-top: 20px">
   <div class="col-md-12">
     <h2 style="text-align: center;margin-bottom: 30px"> Data Tabel</h2><hr>
